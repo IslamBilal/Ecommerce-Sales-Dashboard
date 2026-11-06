@@ -21,7 +21,7 @@ This repository contains the Power BI dashboard project for analyzing e-commerce
 
 ## Project Files
 
-- `Ecommerce-Dashboard.pbix` – Power BI report file.
+- `Ecommerce-Dashboard(2).pbix` – Power BI report file (to be added).
 
 ## About
 
